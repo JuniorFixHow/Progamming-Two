@@ -1,0 +1,15 @@
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\bin\Debug\net6.0\Longest.exe
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\bin\Debug\net6.0\Longest.deps.json
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\bin\Debug\net6.0\Longest.runtimeconfig.json
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\bin\Debug\net6.0\Longest.dll
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\bin\Debug\net6.0\Longest.pdb
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\Longest.csproj.AssemblyReference.cache
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\Longest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\Longest.AssemblyInfoInputs.cache
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\Longest.AssemblyInfo.cs
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\Longest.csproj.CoreCompileInputs.cache
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\Longest.dll
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\refint\Longest.dll
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\Longest.pdb
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\Longest.genruntimeconfig.cache
+E:\Users\annan\source\repos\Joseph\MailApp\Longest\obj\Debug\net6.0\ref\Longest.dll
